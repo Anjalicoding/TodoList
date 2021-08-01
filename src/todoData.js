@@ -1,23 +1,23 @@
 const todos = [
   {
     id: 1,
-    text: "React lecture"
+    text: "T1"
   },
   {
     id: 2,
-    text: "Hint Video"
+    text: "T2"
   },
   {
     id: 3,
-    text: "Freshdesk issues"
+    text: "T3"
   },
   {
     id: 4,
-    text: "Intern Assessment"
+    text: "T4"
   },
   {
     id: 5,
-    text: "Nothing"
+    text: "T5"
   }
 ];
 
